@@ -74,8 +74,6 @@ Clone this repository to your desired folder:
   https://github.com/Alabi12/hello-react-front-end.git
 ```
 
-## Link to Hello_React_Front_End (http://localhost:3001)
-
 ### Install
 
 Install this project with:
