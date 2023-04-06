@@ -68,8 +68,13 @@ Clone this repository to your desired folder:
   cd my-folder
   https://github.com/Alabi12/hello-rails-back-end.git
 ```
+```
+  React front End
 
-## Link to Hello_React_Front_End (http://localhost:3001 )
+  https://github.com/Alabi12/hello-react-front-end.git
+```
+
+## Link to Hello_React_Front_End (http://localhost:3001)
 
 ### Install
 
