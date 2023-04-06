@@ -64,19 +64,12 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-### Link to Hello_Rails_Back_End
 ```sh
   cd my-folder
   https://github.com/Alabi12/hello-rails-back-end.git
 ```
 
-### Link to Hello_React_Front_End
-
-```sh
-  cd my-folder
- https://github.com/Alabi12/hello-react-front-end.git
-```
-
+## Link to Hello_React_Front_End (http://localhost:3001 )
 
 ### Install
 
