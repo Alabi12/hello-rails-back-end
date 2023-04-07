@@ -95,12 +95,6 @@ To run the project, execute the following command:
   rails server
 ```
 
-### Deployment
-
-You can deploy this project using:
-
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 👥 Author <a name="authors"></a>
 
 👤 **Robert**
